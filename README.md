@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gomesbrunojp
 - 👀 I’m interested in computer science and foreign languages
-- 🌱 I’m currently learning Analysis and System's development
+- 🌱 I’m currently learning on System's Development
 - 💞️ I’m looking to collaborate on share some of my personal projects in conforming to my learning process.
 
 
